@@ -1,2 +1,2 @@
 # HW-Wireframe
-Homework 1
+A Project Demonstrating A Simple Wireframe
